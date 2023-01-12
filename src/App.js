@@ -7,16 +7,24 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This is React PWA Example
-        </p>
+        <h1>
+          THIS IS A PWA APP
+        </h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://noldran.github.io/nopwa"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go to no PWA App
+          Link to a NO PWA APP on same domain
+        </a>
+        <a
+          className="App-link"
+          href="https://www.google.it"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Link to a site on a different domain
         </a>
       </header>
     </div>
