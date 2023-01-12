@@ -23,7 +23,7 @@ The first property we need to add at the top level homepage second we will defin
 
 ```json
 "homepage": "https://noldran.github.io/pwa1"
-'''
+```
 
 Second in the existing scripts property we to need to add predeploy and deploy.
 
@@ -47,6 +47,14 @@ add it as remote
 
 ```
 git remote add origin https://github.com/Noldran/pwa1.git
+```
+
+First Push
+
+```
+git add .
+git commit -m "first commit"
+git branch -M main
 ```
 
 5. Now deploy it to GitHub Pages.
