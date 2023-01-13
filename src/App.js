@@ -8,7 +8,7 @@ function App() {
         <h1>
           THIS IS A PWA APP
         </h1>
-        <p>Version 0.1</p>
+        <p>Version 0.2</p>
         <a
           className="App-link"
           href="https://sclaud-org.github.io/nopwa"
