@@ -11,7 +11,6 @@ function App() {
         <a
           className="App-link"
           href="https://sclaud-org.github.io/nopwa"
-          target="_blank"
           rel="noopener noreferrer"
         >
           Link to another App on same domain
