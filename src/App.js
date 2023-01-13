@@ -10,7 +10,7 @@ function App() {
         </h1>
         <a
           className="App-link"
-          href="https://noldran.github.io/nopwa"
+          href="https://sclaud-org.github.io/nopwa"
           target="_blank"
           rel="noopener noreferrer"
         >
